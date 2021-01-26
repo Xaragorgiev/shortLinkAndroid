@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">3</string>
+    <string name="title">Сокращение ссылок</string>
+    <string name="button">Добавить</string>
+    <string name="first">Длинная ссылка</string>
+    <string name="second">Сокращенная ссылка</string>
+    <string name="text">Сокращение: </string>
+
+</resources>
